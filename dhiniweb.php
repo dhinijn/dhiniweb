@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1); // PHP 8.4 recommended
 
-$name = "Dhia Adzkia";
+$name = "Dhini julia";
 ?>
 <!DOCTYPE html>
 <html lang="id">
@@ -37,3 +37,4 @@ $name = "Dhia Adzkia";
     </div>
 </body>
 </html>
+
